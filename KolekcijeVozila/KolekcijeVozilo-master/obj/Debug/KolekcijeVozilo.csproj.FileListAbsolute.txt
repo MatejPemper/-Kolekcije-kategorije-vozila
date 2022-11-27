@@ -1,0 +1,6 @@
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.csproj.AssemblyReference.cache
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.Form1.resources
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.Properties.Resources.resources
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.csproj.GenerateResource.cache
+C:\Users\matej\Downloads\KolekcijeVozilo-master\KolekcijeVozilo-master\obj\Debug\KolekcijeVozilo.csproj.CoreCompileInputs.cache
